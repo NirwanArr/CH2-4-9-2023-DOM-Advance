@@ -17,32 +17,20 @@ footer {
 }
 
 .w {
-
+  background-image: url('images/tom1.png');
 }
 
-.a {
+.a {background-image: url('images/tom2.png');}
 
-}
+.s {background-image: url('images/tom3.png');}
 
-.s {
+.d {background-image: url('images/tom4.png');}
 
-}
+.j {background-image: url('images/snare.png');}
 
-.d {
+.k {background-image: url('images/kick.png');}
 
-}
-
-.j {
-
-}
-
-.k {
-
-}
-
-.l {
-
-}
+.l {background-image: url('images/crash.png');}
 
 .set {
   margin: 10% auto;
